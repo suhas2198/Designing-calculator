@@ -1,0 +1,42 @@
+.calculator {
+
+
+    padding: 20px;
+    border: 2px solid black ;
+    margin-left:auto
+    margin:auto
+  
+  
+}
+.display-box{
+    background-color:beige;
+    width: 100%;
+    height:65%
+}
+button{
+
+box-sizing: border-box;
+size: 20;
+}
+
+
+#btn{
+    background-color: brown;
+}
+
+input[type=button]{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+    color:black
+    border: solid black 0.5px;
+    width:100%
+    border: radius 5px;
+    height:100%
+
+
+}
+
+body{
+
+margin: 50vh;
+}
